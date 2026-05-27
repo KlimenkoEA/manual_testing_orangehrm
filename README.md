@@ -25,6 +25,7 @@
 - Git
 - GitHub
 - DevTools
+- Miro
 
 ## Структура репозитория
 
