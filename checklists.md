@@ -1,4 +1,4 @@
-# Функциональное тестирование
+# Чек лист
 Сайт: <https://opensource-demo.orangehrmlive.com/>
 
 Версия в Miro в виде mind map <https://miro.com/app/board/uXjVHNw85qU=/?focusWidget=3458764673358038179>
