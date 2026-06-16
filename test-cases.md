@@ -2,7 +2,7 @@
 
 Сайт: https://opensource-demo.orangehrmlive.com/
 
-## Форма авторизации
+<summary> ## Форма авторизации </summary>
 
 
 
