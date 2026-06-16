@@ -4,6 +4,7 @@
 
 ## Форма авторизации
 
+<details>
 
 
 ### 🟢 Позитивные проверки
@@ -360,6 +361,7 @@
 
 </details>
 
+</details>
 
 ## Personal detalils/Employee Full Name 
 
