@@ -1,6 +1,9 @@
 # Набор тест-кейсов
 
 Сайт: https://opensource-demo.orangehrmlive.com/
+Пример оформления в Test IT
+<img width="1827" height="1613" alt="2026-06-18_16-13-31" src="https://github.com/user-attachments/assets/2bb25621-18c2-422c-a920-30960577059f" />
+
 
 ## Форма авторизации
 
