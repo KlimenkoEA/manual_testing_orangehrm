@@ -3,7 +3,6 @@
 
 Версия в Miro в виде mind map <https://miro.com/app/board/uXjVHNw85qU=/?focusWidget=3458764673358038179>
 
-
 ## 1. Форма авторизации
 
 <details>
