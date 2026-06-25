@@ -1963,11 +1963,11 @@
 - [] TC-03 Проверка валидации цифровых значений в полях Employee Full Name
 - [] TC-04 Проверка валидации специальных символов в полях Employee Full Name
 
-<details>
-
 </details>
 
 </details>
+
+
 
 ### Блок 3: Personal details/Employee-Other Id
 
