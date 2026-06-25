@@ -758,6 +758,8 @@
 
 </details>
 
+</details>
+
 ### Блок 3: Personal details/Employee-Other Id
 
 <details>
