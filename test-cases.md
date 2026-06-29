@@ -692,8 +692,7 @@
 | # | Шаги | Ожидаемый результат |
 |---|---|---|
 | 1 | Удалить данные с поля First name, кликнуть в любое другое место | Поле окрашивается в красную рамку, под рамкой появляется надпись ‘Required’ |
-| 2 | Удалить данные с поля Middle name, кликнуть в любое другое место | Поле окрашивается в красную рамку, под рамкой появляется надпись ‘Required |
-| 3 | Удалить данные с поля Last name, кликнуть в любое другое место | Поле окрашивается в красную рамку, под рамкой появляется надпись ‘Required |
+| 2 | Удалить данные с поля Last name, кликнуть в любое другое место | Поле окрашивается в красную рамку, под рамкой появляется надпись ‘Required |
 
 </details>
 
@@ -1881,7 +1880,7 @@
 - [x] TC-05 Проверка к копированию/вставке пароля и логина
 - [x] TC-06 Поддержка автозаполнения
 - [x] TC-07 Тримминг пробела в поле ввода логина 🐞 <https://github.com/KlimenkoEA/manual_testing_orangehrm/issues/1>
-- [x] TC-08 Тримминг пробела в поле ввода пароля 🐞
+- [x] TC-08 Тримминг пробела в поле ввода пароля 🐞 <https://github.com/KlimenkoEA/manual_testing_orangehrm/issues/2>
 - [x] TC-09 Проверка сохранения сессии после входа, при обновления страницы
 
 </details>
@@ -1938,9 +1937,9 @@
 <details>
 
 - [x] TC-01 Проверка длины строки полей Employee Full Name
-- [x] TC-02 Проверка на валидацию обязательных полей раздела Employee Full Name 🐞
-- [x] TC-03 Проверка валидации цифровых значений в полях Employee Full Name 🐞
-- [x] TC-04 Проверка валидации специальных символов в полях Employee Full Name 🐞
+- [x] TC-02 Проверка на валидацию обязательных полей раздела Employee Full Name ⚠️ <https://github.com/KlimenkoEA/manual_testing_orangehrm/issues/3>
+- [x] TC-03 Проверка валидации цифровых значений в полях Employee Full Name 🐞 <https://github.com/KlimenkoEA/manual_testing_orangehrm/issues/4>
+- [x] TC-04 Проверка валидации специальных символов в полях Employee Full Name 🐞 <https://github.com/KlimenkoEA/manual_testing_orangehrm/issues/5>
 
 </details>
 
@@ -1972,8 +1971,8 @@
 - [x] TC-01 Попытка сохранить профиль с Id существующего сотрудника
 - [x] TC-02 Ввод строки превышающий лимит поля Employee Id (11 символов)
 - [x] TC-03 Ввод строки превышающий лимит поля Other Id (31 символ)
-- [x] TC-04 Проверка сохранения Employee id с недопустимыми символами 🐞
-- [x] TC-05 Проверка сохранения Other id с недопустимыми символами 🐞
+- [x] TC-04 Проверка сохранения Employee id с недопустимыми символами 🐞 <https://github.com/KlimenkoEA/manual_testing_orangehrm/issues/6>
+- [x] TC-05 Проверка сохранения Other id с недопустимыми символами 🐞 <https://github.com/KlimenkoEA/manual_testing_orangehrm/issues/6>
 - [x] TC-06 Проверка сохранения поля Employee Id содержащего только пробел
 - [x] TC-07 Проверка сохранения поля Other Id содержащего только пробел
 
@@ -2003,7 +2002,7 @@
 <details>
 
 - [x] TC-01 Ввод строки превышающий лимит поля Driver's License Number (31 символ)
-- [x] TC-02 Ввод запрещенных спецсимволов в поле Driver's License Number 🐞
+- [x] TC-02 Ввод запрещенных спецсимволов в поле Driver's License Number 🐞 <https://github.com/KlimenkoEA/manual_testing_orangehrm/issues/7>
 - [x] TC-03 Проверка сохранения поля Driver's License Number содержащего только пробел
 
 </details>
